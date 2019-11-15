@@ -19,6 +19,7 @@
 ## Prototyping Tools
 
 - Adobe XD - https://www.adobe.com/ca/products/xd.html
+- Figma - https://www.figma.com/
 - Marvel Prototyping - https://marvelapp.com
 - InVision - https://www.invisionapp.com
 - Sketch - http://www.sketchapp.com
