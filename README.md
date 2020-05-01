@@ -21,7 +21,7 @@ Lecture and slides covered:
 - Creating routes
 - Dividing Tasks
 - [Communication and teamwork](./teamwork.md)
-- [Project Setup](./https://web.compass.lighthouselabs.ca/activities/353)
+- [Project Setup](https://web.compass.lighthouselabs.ca/activities/353)
 - Database Setup
 - [Git Workflow](./git_workflow.md)
   - [Branching](./git.png)
