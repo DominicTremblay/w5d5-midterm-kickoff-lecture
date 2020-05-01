@@ -55,6 +55,7 @@
 ## API Tools
 
 - Postman - https://www.getpostman.com/
+- Insomnia - https://insomnia.rest/
 
 ## Project Management and Communication Tools
 

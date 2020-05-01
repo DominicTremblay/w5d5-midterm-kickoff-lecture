@@ -29,5 +29,5 @@
 8. git checkout master
 9. git pull
 10. Fix conflicts
-11. git merge feature/new-featre
+11. git merge feature/new-feature
 12. git push
