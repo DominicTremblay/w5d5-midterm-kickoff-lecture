@@ -63,3 +63,4 @@
 - Basecamp - https://basecamp.com/
 - Asana - https://asana.com/
 - Slack
+- Discord
