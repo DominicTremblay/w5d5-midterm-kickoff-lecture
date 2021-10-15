@@ -2,6 +2,12 @@
 
 [Git Workflow](./git.png)
 
+## Git Pull from Master
+
+from the master branch:
+
+`git pull` 
+
 ## Create Feature Branches
 
 `git checkout -b feature/my-feature`
